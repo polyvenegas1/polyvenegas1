@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @polyvenegas1
 - 👀 I’m interested in Quantum Computing and Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Deep Learning and Quantum Computing projects
+- 🌱 I’m currently learning Federated Learning
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 Reach me at polyvenegas1@gmail.com
 
 <!---
